@@ -1,0 +1,10 @@
+write
+draw_circle
+draw_square
+draw_rectangle
+draw_line
+show_me_excited
+show_me_rich
+hello
+how_are_you
+mayoscript
