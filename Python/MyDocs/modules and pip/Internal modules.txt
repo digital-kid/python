@@ -1,0 +1,2 @@
+Internal modules are the modules which you don't need
+to install e.g tkinter,random,abc,copy and datetime

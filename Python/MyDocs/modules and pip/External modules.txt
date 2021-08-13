@@ -1,0 +1,2 @@
+external modules are modules you need to install
+e.g flask,pyqt5,pandas and tensorflow

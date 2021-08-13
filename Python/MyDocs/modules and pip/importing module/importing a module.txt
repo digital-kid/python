@@ -1,0 +1,14 @@
+to import a module simply type "import (module name)"
+e.g to import random i will type "import random" it's 
+it on the top of the document because it can probably
+give you some errors e.g the test.py in this folder
+is also a python file and i used the tkinter module
+in it i wrote the code like this:
+		root=Tk()
+		from tkinter import*
+		root.manloop()
+as you can see i wrote root=Tk() which is a code
+you write in tkinter and after that i imported the
+tkinter module and when i run it it shows root=Tk()
+is not defined and if i import the module at the
+beginning it will work properly

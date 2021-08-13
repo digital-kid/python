@@ -1,0 +1,6 @@
+modules and pip 
+print statement
+python as calculator
+comments
+escape sequences
+string slicing and other functions

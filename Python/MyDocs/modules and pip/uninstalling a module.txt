@@ -1,0 +1,4 @@
+to uninstall a module you open cmd and type
+"pip uninstall (package name)"e.g i typed 
+"pip uninstall flask" to uninstall the flask module 
+now i can't use it

@@ -1,0 +1,9 @@
+for printing an integer write this code:
+				print(1)
+this line will print 1  you can also do it like :
+			print("1")
+but the interpreter will recognize it as a sentence
+so if you are working on a big project this will
+give you some errors
+*i have provided the integer print file in this 
+folder as test.py

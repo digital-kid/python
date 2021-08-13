@@ -1,0 +1,4 @@
+there are some exceptions in importing modules e.g 
+from tkinter import*
+is the line to import tkinter module but there are 
+not many exceptons so you don'tr need to worry.

@@ -1,0 +1,7 @@
+you can also print multiple-lines e.g write this code
+print('''multi
+line 
+printing
+''')
+you use ''' you multi-line printing
+*multi-line printing.py

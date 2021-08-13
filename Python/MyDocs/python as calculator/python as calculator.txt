@@ -1,0 +1,7 @@
+you can also use python as a calculator just open cmd
+type python and then add your operations e.g 5+5 and 
+then press enter it will give you 10 it's important
+to do it in the interpreter because
+if you will do it as a file it will return nothing
+*i created test.py and did operations in it
+(test.py is in the folder)

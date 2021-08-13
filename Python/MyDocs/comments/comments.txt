@@ -1,0 +1,15 @@
+comments are a ways to tell yourself or anybody else
+ about the code of line.In python there are two types
+ of comments if it's a single line comment then add 
+#your single line comment and if it's a multiline
+comment then add
+'''
+this
+is your multi-line comment
+'''
+you can write comments after any statement
+  If you try to add
+ comment without # or ''' then it will give you an 
+error
+*i have provided single line comment.py,multi-
+comment.py,comment after statement.py and error.py

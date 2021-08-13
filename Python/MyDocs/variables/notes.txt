@@ -1,0 +1,42 @@
+'''variables
+you can simply make a variable by writing
+varname="varcontent"
+and later you can print it too
+types of vars
+1.int e.g varname=1
+2.float e.g varname=1.0
+3.str e.g varname="varcontent"
+and you can print all of them remember to make 1 variable of a name in the file or else errors will occur
+you can also add two variables like print(num1+num2)
+combinations of vars you can print:
+str+str
+int+int
+float+float
+int+float
+printing the type of var in python e.g
+var1=8 #this is an int and to prove it you can print it's type
+print(type(var1))
+and <class int> will be printed
+you can also make a variable to express it's type e.g
+type=(type(var1))
+print(type)
+and the results would be same
+you can also change the type of variable if possible by this i mean
+var1="1"
+var2="h"
+both of them are str but one can be an int we can convert it like
+var1=int(var1)
+if you try it on var2 it will throw an error
+you can also print something multiple times e.g
+print(100*("hello World"))
+#let's print a number multiple times
+var1=8
+var2=2
+print(100*var1+var2)
+#this won't show what you expected try doing it like this
+var1=8
+var2=2
+print(100*str(var1+var2))
+and it will work;)
+'''
+

@@ -1,0 +1,4 @@
+to install a module you open cmd and type
+"pip install (package name)"e.g i typed 
+"pip install flask" to install the flask module 
+now i can use it

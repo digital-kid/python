@@ -1,0 +1,5 @@
+for printing a sentence you simply write
+print("your sentence") and it will print it .if you 
+don't put the quotes it won't work.I will add two 
+files one with quotes and one without quotes
+the one with quotes will work and one without won't.
